@@ -1,0 +1,91 @@
+
+
+
+body {
+    background-image: url("../images/fondoServicio.jpg");
+    
+    background-size: cover;
+    
+    
+    zoom: 80%
+}
+
+
+#formulario {
+    max-width: 1000px;
+    width: 100%;
+    background-color: #705313;
+    padding: 40px;
+    border-radius: 4px;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    box-shadow: 3px 3px 4px rgba(177, 3, 3, 0.2);
+    display: flex;
+    align-items: flex-end;
+   
+    
+}
+#servicio {
+
+    
+    background-color: rgb(196, 166, 82);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: flex-end;
+    margin: 0 10px;
+   
+    
+    
+}
+#datosServicio{
+    background-color: rgb(196, 166, 82);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 800px;
+    height: 600px;
+    
+    margin: auto;
+   
+}
+
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color:  rgb(65, 42, 8);
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: rgb(65, 42, 8);
+    color: #fff;
+    
+    padding:10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    
+}
+
+button:hover {
+    background-color: #457fa0;
+}
+
+
+
+
+    
+    
+
